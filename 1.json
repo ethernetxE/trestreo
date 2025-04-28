@@ -1036,6 +1036,15 @@
   {
     "name": "Comedia",
     "mode": false,
-    "lista": []
+    "lista": [
+      {
+        "name": "Una Casa Patas Arriba",
+        "icon": "https://thumbnails.simplestreamcdn.com/sonyonelatam/ondemand/52585282.jpg?width=700&lang=es&",
+        "uri": "WsBFaQkM53LdXcCWovOW5wqpVh7CQ3Gri6CISBgb7h2ooQNerYvsjsI0BgoABRJasm0LyrjDqQofUQBkFi/Sz/wa2ggneceLHnXuN0JLUh7ps69Q1GjD1TYkhI7KVANykDhnwN6AOlXy8pRfRBS86C7+ETbTZHrFfxNzyBCg7KYfmsHdAIP9BgqttkA0hA3nZhQReiHK60mKdPNa72xBoQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rN47/5YD+wtmwJg+HSn7fHmueF8AfBNZvjmTyNXLL+GsYfcxfeQ31aIE0qdjKkra",
+        "drm_header": ""
+      }
+    ]
   }
 ]
