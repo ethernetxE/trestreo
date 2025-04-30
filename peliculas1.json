@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "name": "Ash",
+        "icon": "https://i.imgur.com/F98YD3W.png",
+        "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ+JOI2cV4zWtg9a89Jp490JjcTWgr1Kba7xa7EcBNqpCnvEbGCfktgkQwFqNkmvNsw="
+      },
+      {
         "name": "Dog Apocalypse",
         "icon": "https://i.imgur.com/pwywg0O.png",
         "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ9Hvb+iUYuF/cjuOdnVxOFk49Xw+Jo5J4bN17TSWHlNfLGd1xGSZsVVWSpKubQ5Dgs="
@@ -367,6 +372,16 @@
     "name": "N Peliculas",
     "mode": true,
     "lista": [
+      {
+        "name": "Extraterritorial",
+        "icon": "https://i.imgur.com/qY95Sgz.png",
+        "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ/FDgpIt4dMaqUa6KqCSy0Gz6RH8kx542V1zR7nN9PGRFXxKkgF7R6v0yeFrg0Z57g="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/UvM1C1IbEb631IANWpiUACU9UnKf-9qSgaYBEkp9qCJQH7pWzLLVze0g55OyUJ7EaAYz",
+        "name": "Un don excepcional",
+        "uri": "5FSgSsDC6nVpPZRfqN9COICVg+IijNIKJ0uNAh2DWGrzp1yz2sI6TIL6H3AdSZIV/Bet4PzW+SdjDvzO3SlcVkKOiTbd35KDvQi02dZQ4mPCUN8DDbsWY8zkNbknb4UNv6lYEMbhr+ojVTbHVS0tttNLRycRs6yF7cbWmc6VGww="
+      },
       {
         "name": "Pánico en el tren bala",
         "icon": "https://i.imgur.com/DiqRZyE.png",
@@ -981,11 +996,6 @@
         "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiZff7XqoCEGh8i3sT1aGKkUisYo9Ca62CGTlQIuBMosT7knEgndXV8BfGY3Wlq243xhtbrXFLkT1hKKUHBZHb9EQVvvGP64EEHVv8CQ0uAvHm4PAh1PiC5Y7DKK0ConsDxb6IwarD_SBWbkCuN38qdlhryAph-q8a2AQaYNhOUHWAFqkqcOKi_dnVtm4/s320/POSTER%201.png",
         "name": "Un detective suelto en Hollywood Axel F",
         "uri": "5FSgSsDC6nVpPZRfqN9COICVg+IijNIKJ0uNAh2DWGrzp1yz2sI6TIL6H3AdSZIV/Bet4PzW+SdjDvzO3SlcVqDHZkr5RKoTnHcMRzdBhribjjuV66h7siBVMQyGx0XyOT4l2+mJTqIihKGXOVKTkscaq7vSYdxxc9qJGSaCHplWz47UM2d15yxUawO89athKgzVj9ZMgQ+cGnmhnRKNP2SA1sHbVYtSbeOeFjqQEC+AbwlJ4cPz0ANe98eyQrCYNZTLqOFLcd1GQaYVRwV+fw=="
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/UvM1C1IbEb631IANWpiUACU9UnKf-9qSgaYBEkp9qCJQH7pWzLLVze0g55OyUJ7EaAYz",
-        "name": "Un don excepcional",
-        "uri": "5FSgSsDC6nVpPZRfqN9COICVg+IijNIKJ0uNAh2DWGrzp1yz2sI6TIL6H3AdSZIV/Bet4PzW+SdjDvzO3SlcVkKOiTbd35KDvQi02dZQ4mPCUN8DDbsWY8zkNbknb4UNv6lYEMbhr+ojVTbHVS0tttNLRycRs6yF7cbWmc6VGww="
       },
       {
         "icon": "https://play-lh.googleusercontent.com/JTmjBEorZSMLQCKonopH92p5NLibKcoo0_th2P1dVvbg1LNwthdRUlOUABdMuq7FX9Hi=w240-h480-rw",
