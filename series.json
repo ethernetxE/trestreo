@@ -4,6 +4,36 @@
     "mode": true,
     "lista": [
       {
+        "name": "El Eternauta",
+        "icon": "https://i.imgur.com/mw8xG7Y.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WWh23EDApEfqsc+3sPj7UTl4URtFXjmKGjV5+uKCnTXHRZm8TXbtsaGYmpY6NkSuyQoexe4qiQTpIrgXQoE93Gw=="
+          },
+          {
+            "name": "Caputulo2",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WWh23EDApEfqsc+3sPj7UTl4URtFXjmKGjV5+uKCnTXHRZm8TXbtsaGYmpY6NkSuyHmi+fYqO/kP17GmJzOF7EA=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WWh23EDApEfqsc+3sPj7UTl4URtFXjmKGjV5+uKCnTXHRZm8TXbtsaGYmpY6NkSuyn8EphMvqOzAghPyERZINNg=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WWh23EDApEfqsc+3sPj7UTl4URtFXjmKGjV5+uKCnTXHRZm8TXbtsaGYmpY6NkSuyWrIh8XCifbPM7UVX5XgmRg=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WWh23EDApEfqsc+3sPj7UTl4URtFXjmKGjV5+uKCnTXHRZm8TXbtsaGYmpY6NkSuyHakK8cyoUXS8wFKQJgL6hA=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WWh23EDApEfqsc+3sPj7UTl4URtFXjmKGjV5+uKCnTXHRZm8TXbtsaGYmpY6NkSuy5edBXJ+RXhWY3tj8sqVt4w=="
+          }
+        ]
+      },
+      {
         "name": "You ",
         "icon": "https://i.imgur.com/hlEwgnp.png",
         "temporada": [
