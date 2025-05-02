@@ -6,7 +6,49 @@
       {
         "name": "Ransom Canyom",
         "icon": "https://i.imgur.com/P4JoHCu.png",
-        "uri": "ZMrLWF+ZE5glckHGdHAaWh9BQJwFvOAT/9ZisxuQBh0="
+        "uri": "ZMrLWF+ZE5glckHGdHAaWh9BQJwFvOAT/9ZisxuQBh0=",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ9tqd4zChZomIIjjUwSoAtLcrIJtx3I+gVdEl9PiQvmOdTirpUFE8WiGq1AUhgqRWc="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ/Tm7b3X/SbiIPnXFCOjgTKDrYJ5M8RRfGn/RBAByHQUSQu38xVZt8ukWB/8WF/p9g="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "/c1xmmiZXWmmX5Pm5NThNnnuq3rXjocA9FeWbeRB2Kn481fTCR81eSfEhWaGwQQn9K7ZRFfbrWWoJWZhp625vzZaZQXFmjO9qbQwKnQNjNc="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ+op8J3Mkijds3RB1YI8uSoZGNvcNAq+2xd2kLXI1JZtNBmkca8aRJi1vgPVmKNsqY="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8pKKqUhalpOReoMp0FUdIv65Z9zP3ingISuHkj/kzGa8pCqc2fRgyDdgy8K5lq/RA="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "/c1xmmiZXWmmX5Pm5NThNvzVWtctvjS8jhAqaAUq+AIceWDmCNqlawY4yHLaGbFStx8Vgrju4SPAi1gvcRQM2zZaZQXFmjO9qbQwKnQNjNc="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "/c1xmmiZXWmmX5Pm5NThNv0UpVzLl1hoyHQpoh4StvxMTyI3sugGVesVtsNHwpmRceuMziiWVd63B70oB2w4mTZaZQXFmjO9qbQwKnQNjNc="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ/IqX2VQhYvhSB4fPzq5TBURm95RPZTxS7fnJJPVoCU+PMLDWMsPl42S/HwHcGQ/gc="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ+NinJ9/+5Lx/rRf6y7Pr9lylWU+tihz1vSvyL6vh5BXDO8AaPJ4onQez6G7GHWJm8="
+          },
+          {
+            "name": "Capitulo 10",
+            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ9ei0ReNbuksS99hL6SxJsCqqnh4Kxrr25ZY60klQtZv4jrtMueuwshGSXRqWLPgxw="
+          }
+        ]
       },
       {
         "name": "El Eternauta",
