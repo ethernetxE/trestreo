@@ -520,6 +520,12 @@
     "mode": false,
     "lista": [
       {
+        "name": "Tigo Sports 2",
+        "icon": "https://i.imgur.com/rd2TWfJ.png",
+        "uri": "AzPa7nAtZOtY5qsAVxGZWcmD2nW4HZUyIpE8vM7TWVDzpH7sMmUro3nxk0B3Z4Wk",
+        "drm_header": "N7LH09PDQBfKArwRQhLHs4bUaqg6KtFAxV2SUCgh6vLSHVGDhH78h7SZDH6Vidh4Nvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
         "name": "Tigo Sports",
         "icon": "https://i.imgur.com/rd2TWfJ.png",
         "uri": "AzPa7nAtZOtY5qsAVxGZWcmD2nW4HZUyIpE8vM7TWVALo8BT8kxsncUPS7PgL024",
