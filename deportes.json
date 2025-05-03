@@ -220,9 +220,9 @@
     "mode": false,
     "lista": [
       {
-        "name": "Canelo VS Scull S",
+        "name": "Canelo VS Scull",
         "uri": "A2YC98Ny95rl/pP+2wa16mltJbnw2Bu/kJhD46Vm3PnQoR6ztVUBFGH0BctYQJ4Zt4Sgjo4LEODSqRB+bmi97w==",
-        "drm_header": "OfZr5dEPmWzLXR7ByzgxxU/Y/jI5UKFeMHNjYdharkHtD/vor4qdALsM9qsYxy/btz7TqfHmN+1DKntUaWWSfoQvAa1eRnotOfpHJxAVPF6E/8HGR+DEMqk6c8v1nkkyjzHgYg11GnMtXI1seOL/Kb35+HjxkJVQ4RMTTZNJpqFwB4qCZx6idzTgylu02/n4QEBwHU+ZjDb7jPMT1j/JHmiL6gruXH17BFRnqlNUvHj2avDVmrHUO/I6Acua1DR0HPPbfHoneOJlQQv8ETHktaPL3GB39PZF90YXRxO3HY2pCL6hmfIoYh+U/Fi/9xJwmHw6A3oM5UWFAt4QFcBFSAHe8u9wRueFqYKTVztq8cM="
+        "drm_header": "HS1iP8g6W8ndG/TsMcsJLQnqVxxt5x6u5SgThZwuCCfHQUjosEfr0+rLwIChqz/QCMq3VQARJ1fjV3N7HZHo9cpz1IQ+Pzh2uY3TgNFqhJY5Q6v2QxGcn65zjuBbY6lPGK24xiQ+WJQtA4By0jXEyb35+HjxkJVQ4RMTTZNJpqFwB4qCZx6idzTgylu02/n4QEBwHU+ZjDb7jPMT1j/JHmiL6gruXH17BFRnqlNUvHj2avDVmrHUO/I6Acua1DR0HPPbfHoneOJlQQv8ETHktaPL3GB39PZF90YXRxO3HY2pCL6hmfIoYh+U/Fi/9xJwmHw6A3oM5UWFAt4QFcBFSAHe8u9wRueFqYKTVztq8cM="
       },
       {
         "icon": "https://i.imgur.com/V5GrJyT.png",
@@ -305,6 +305,13 @@
     "name": "⚽️Eventos UY 🇺🇾",
     "mode": false,
     "lista": [
+      {
+        "name": "VTV",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/VTV_2012.png/revision/latest/smart/width/386/height/259?cb=20250407122723&path-prefix=es",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xh+LWOlwh4B3dwmMHg4AoSvCn+Lw8G2WiP0w2L7JH7hUKSWnjeR0BHdQ5xlOW9HDU2/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "JxElDEIsNff4fz9ccEdA7SrNDU8U3E9KigZw5KCFW8j+ncLfxLrcTMjS+E3+bE6V"
+      },
       {
         "name": "VTV Plus",
         "icon": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png",
