@@ -935,7 +935,16 @@
       },
       {
         "name": "HBO XTREME",
-        "icon": "https://i.imgur.com/EhUOmol.png"
+        "icon": "https://i.imgur.com/EhUOmol.png",
+        "temporada": [
+          {
+            "icon": "https://i.imgur.com/EhUOmol.png",
+            "name": "HBO XTREME",
+            "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72wQtk8bg30uD0e6pGbmlMwVb0k3zA0KuCDRnnChVs1lngU/c6X+NNc99g+/b06Y6Fh+/T8SP0CgOBXYCNX2cd3K",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "KUnTlg1LbauOr/FsKbqDM2xH1XwQFpJneHeHgGnaT6cYwZKOALu1gyc3n8v6Or0D"
+          }
+        ]
       },
       {
         "icon": "https://i.imgur.com/taCaS8T.png",
@@ -1744,7 +1753,329 @@
       },
       {
         "name": "Canales MX",
-        "icon": "https://image.roku.com/developer_channels/prod/1a9379d8fdad02b1253107cee1030031c1fba12473cf19f4cdefb26f83b35e0f.png"
+        "icon": "https://image.roku.com/developer_channels/prod/1a9379d8fdad02b1253107cee1030031c1fba12473cf19f4cdefb26f83b35e0f.png",
+        "temporada": [
+          {
+            "name": "A&E",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0AVKvRUl/+gKOn4C4m8ZG4YBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Amc",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0PxWnqLGu/vl6fcB8gnXcKYBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Axn",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0BKc8ehosipaLBXcXiIBGccBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Az corazon",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0GlhXzEUZbC0h4tFkruPBP4BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Azcinema",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0GfGIYAWGB8wDCQIwFsLywoBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Azteca",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0JHR1yGsn7vNKME1Q1GwiNQBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Azteca 7",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0OPi1xcGv+SDazwNI7eAJD4BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Boomerang",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0OjReQiaG/+mN92V5BEKXUcBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Caracol",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0KnbtEq/H8jT1YqAEHT6LLEBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Cartoon Network",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0FvD+xpqAEA879GaS12cOFsBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Cinecanal",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0MgmWYNZvW7FHi85sw6uC+8BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Cinemax",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0If32HanYiNuD48dynmm6h8BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Claro Sports",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0B+RHEUbCwVCKxrQoU175akBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "D Pelicula",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0OqzpgYKZpHKve6u5+xUExsBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Dazn F1",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0JJ/Sw39ByLid/Gd+hm59y8BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Discovery",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0IuGBKzS9pIradd5GwnHDvsBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Discovery h&h",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0P99upz4EUtIK8VBpu7jE1wBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Discovery Id",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0KwDv0shO259nz4ANxqx6lwBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Discovery Turbo",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0PvuSFhHgQYUnvnLDxDX8FEBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Discovery XD",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0AzE9TY4baBVJmpP4SQC8KIBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Disney",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0BEy0P3f17ToVnQ7E0TNvS4BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Disney Junior",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0GYzm2TWmXdKrtNjE8eLZHwBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Espn 1",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0F8AEHnxcBgq/L12VTJGy6MBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "ESPN 1",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Ah5nM3cVIEzqlJVVGT1IjUBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Espn 2",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0BzxYKEf2F9yUZojvH7CeI8BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "ESPN 2",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0B6Y0W+weBjQ141tiWEfwz0BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Espn 3",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0O3hpnT27Wfv/cEOmwUwffYBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Espn Deportes",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0HliVoynymdRPiR44MkxD4QBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Fox Sports 2",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0KPsh82/zdAGA+gfhjQpVhsBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Fox Sports 3",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0CY3u8sqJxeqsBTS4SMgucQBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "FX",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0OgOg14lTNRAweIRKguJyMUBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Golden Plus",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0A4vtwJRmzYL4FJsbBOXJbkBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Golden Premiere",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0F47jgN3kMnr6OOasYjk8bwBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Hbo",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0OYhHGNG6hgjhjUp8Fw+3E0BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Hbo 2",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0EsIROPHMiN5NwtoT2sWivcBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Hbo Extreme",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0OU1KD6zFRaYJ7eFN4Nd8bcBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Hbo Family",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0LnlHGTXw23QUjKVs1Yv6hwBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Hbo Plus",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0FABu8A67IJO3UC8hJMOI9YBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Hbo Signature",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0EPvUWSowkwHt7hsqh7gGooBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "History",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0FOg7EscItL6hYnC2xo2nFQBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Lifetime",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0D8D58Qw6qyE3+NJ6iWPMb4BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Natgeo",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0HjWqCjNX3iIYst8nDeDm5UBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Nick jr",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Lc/jE2wSdNg4IFrLxfHZ9YBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Paramount",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0NUrMe9jAd6gLqzZM5UTqO8BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "RCN",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0ATLy1C5ir/Ssi1ZYHcGrHsBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Sony",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0LdAT9nEGLJhe9z/4tz7T4MBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Space",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0GZB77rTfMZFROuK9ZkR7cgBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Star Channel",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Dfxna5eCZvZ7vWWxKzcxeQBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "TCM",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Ot7yin8OO8AuUgGpTUZipoBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Telemundo",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0DERWeIVTI0utwb8oWJaB0huYMWj51SpAuic8W6sSStgIYU+ieFbgPmwcZds8k+GBg==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Telenovelas",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Bsp86oCGPcE9iQgR4R9BDABsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Tnt",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0CWH3DKJLkOyATPmS+NDVFpuYMWj51SpAuic8W6sSStgIYU+ieFbgPmwcZds8k+GBg==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Tnt Series",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Al5pyHJD0erijr4TZjXjRJuYMWj51SpAuic8W6sSStgIYU+ieFbgPmwcZds8k+GBg==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Unimas",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0AIzmUAiB+Otl3Jn/borEHNuYMWj51SpAuic8W6sSStgIYU+ieFbgPmwcZds8k+GBg==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Universal",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0ItS353htZwhTrGSnoRCDt0BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Universal Cinema",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0BvZDnkfEYivoWBVccbmmM4BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Universal Comedy",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0BSmglDi6vNNAGYCnpxfTvUBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Universal Crime",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0Onxha68MW81B/9kQOKu7Y8BsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Universal Reality",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0BSmglDi6vNNAGYCnpxfTvUBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Universo",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0MOHwsJPBRT8wiGdxg8FXUoBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Univision",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0AIzmUAiB+Otl3Jn/borEHNuYMWj51SpAuic8W6sSStgIYU+ieFbgPmwcZds8k+GBg==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Warner",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0AMUfApO9d/fJ8WqlQmDYu1uYMWj51SpAuic8W6sSStgIYU+ieFbgPmwcZds8k+GBg==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "Win Sports",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0FCGuUqVeolcn+WqqD6V9IUBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          },
+          {
+            "name": "WWE",
+            "uri": "CvPv3kCZRl4Q3Pqct3EP0PUIk//BEQ0HRGjRxnpCY1gBsZcMrf3qyLKsbERwpt3vt4Sgjo4LEODSqRB+bmi97w==",
+            "drm_header": "N7LH09PDQBfKArwRQhLHsw+pfVX16IZA3Kc78igr15bHV31ZsCPgXivPE7NYNyEU9OGTQ0gAnIjJOsXDuWf6QA=="
+          }
+        ]
       }
     ]
   },
