@@ -2981,6 +2981,20 @@
     "mode": false,
     "lista": [
       {
+        "name": "VTV",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/8/8f/VTV_Logo_2010.png/revision/latest/scale-to-width-down/260?cb=20210429025526&path-prefix=es",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xh+LWOlwh4B3dwmMHg4AoSvCn+Lw8G2WiP0w2L7JH7hUKSWnjeR0BHdQ5xlOW9HDU2/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "JxElDEIsNff4fz9ccEdA7SrNDU8U3E9KigZw5KCFW8j+ncLfxLrcTMjS+E3+bE6V"
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV Plus",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xh+LWOlwh4B3dwmMHg4AoS2YrtjaAH4/7G41juWPRunDK0hPbRlT6nT3EDwik4Hc9fGG6bnNOWNaGHDTpKP8VN",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "975e19toDInX0nT3Ri6MpziYgc1ijt+86p8jfGTHYA6ZHusad/VBQO8MoxAVChqN"
+      },
+      {
         "name": "CANAL 10",
         "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM9HfAdEtZquHqjcOt6oucU9qtuKewCXC4bHgKMeZ79W2wfzGgdywW3vHxQdT46tNFUpj118xnOyuxSLJrt9FQwU",
         "drm_scheme": "clearkey",
@@ -3031,13 +3045,6 @@
         "name": "CHARRÚA TV",
         "uri": "jkiKRB8PEV7JSGsvZY9km66xejVCusfhnEqJqHZlM9wizobk0yHM10rxAmAOpODY6HOeRi5qfCsmo/LtIm+DSQ==",
         "icon": "https://i.ibb.co/m3u84GCSf/charrua.png"
-      },
-      {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV Plus",
-        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xh+LWOlwh4B3dwmMHg4AoS2YrtjaAH4/7G41juWPRunDK0hPbRlT6nT3EDwik4Hc9fGG6bnNOWNaGHDTpKP8VN",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "975e19toDInX0nT3Ri6MpziYgc1ijt+86p8jfGTHYA6ZHusad/VBQO8MoxAVChqN"
       }
     ]
   },
@@ -3561,9 +3568,11 @@
         "uri": "XKNB1Zs80pwn/wzxriThbKOM0a95NiZIQTGqhHDy9sYNpFkTVjU6wDScFA+kPnKT8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
       },
       {
-        "icon": "https://cdn.m3u.cl/logo/499_Telesur.png",
         "name": "Telesur",
-        "uri": "zitAOIuaFovsKTj9RBBOGZgPBD5bd8VxOl6WS0OvpE78BiwEwtLFuEvndTg4ZjSeTh4oGF5TX60bPwJvLmrzrUDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+        "icon": "https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/2237715507388.png",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72x/EKYGC8HuHmb4Z9nMS/WMrfo6QvhydlHXg+sUCk2TwcfUNxuekgB6JPhWPrpE4oQpj118xnOyuxSLJrt9FQwU",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "AXyhs9MxpS31OyZiWlH8FN4IVNQJNzNyzA9rEUihWSYYGdbpi3JeAQNrOfzjA40W"
       },
       {
         "icon": "https://cdn.m3u.cl/logo/500_Telesur_English.png",
