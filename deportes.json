@@ -220,6 +220,22 @@
     "mode": false,
     "lista": [
       {
+        "name": "Canelo vs Scull 1",
+        "icon": "https://www.izzigo.tv/images/repository/276/17592276-LOGO-m.png",
+        "uri": "5h8Nz4sWxQMdoNnr0qmCXMHtbuSjtPo59nJ/rKPQBSNM1Z8e8w6o9VigZ9qLmKbFe4W8aFyyoVn3ThJ4iKAwGTb8LtEkxRhQ63isJSSX7iQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "i1DmTByGOGFCFmT7N+tSYq623pgXOcLJFG1qqtg69FGshM13NTToOHaq0I/UZawX",
+        "drm_header": "bY/ykEym8SMM1HqSPToI7Dc9/U0dJzLd4XRLI0tG1cQdHz1CwWWnsdfhsXWPgperINL95c3qnEBMe0L6wpZsIAYLeI31J4dueJtC0/KMK0P0Or1Rgftfv/qFd6nbdLXaqvAeeW99W6RDqUePkLMkYcAd9p+nWVwzLwCHKhpKuWQ="
+      },
+      {
+        "name": "Canelo vs Scull 2",
+        "icon": "https://www.izzigo.tv/images/repository/878/7809878-LOGO-m.png",
+        "uri": "5h8Nz4sWxQMdoNnr0qmCXH/Fox3TKaQWwHpvaLhm0KuJinJD/wqPpAl2PfWox4R0/J460lQW+xENa24m/T6rf9I9bUWf0hIlGXruip0TN9A=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "qOnJumHB5a4TlhwMl7nAPVgQSW2NnNHVscriJWXzhWVL/a3X9HdOP05oTXBohlC1",
+        "drm_header": "bY/ykEym8SMM1HqSPToI7Dc9/U0dJzLd4XRLI0tG1cQdHz1CwWWnsdfhsXWPgperINL95c3qnEBMe0L6wpZsIAYLeI31J4dueJtC0/KMK0P0Or1Rgftfv/qFd6nbdLXaqvAeeW99W6RDqUePkLMkYcAd9p+nWVwzLwCHKhpKuWQ="
+      },
+      {
         "icon": "https://i.imgur.com/V5GrJyT.png",
         "name": "Deportes WEB",
         "web": "P96KRz4Q2VTScuyH9l4oRztrFWnP1+/JkekRJmbE3swgSAqVkAZwwDDaHcpogDzz"
