@@ -5451,49 +5451,48 @@
     "mode": true,
     "lista": [
       {
+        "name": "Kun by Agüero",
+        "icon": "https://i.imgur.com/G7WAW5b.png",
+        "uri": "ZMrLWF+ZE5glckHGdHAaWpcPVDvx4JTXzhEybLsohso=",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpAb8RnZKXHjguAChUI2jpS9"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpDZkn1tPFMFniK7dcOZqaIY"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpBUzNAIC7f3ZKZO1p6xJwRO"
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpDGYqBhJJNlJbXjtNBu/VRx"
+          }
+        ]
+      },
+      {
         "name": "1883",
         "icon": "https://i.imgur.com/6FoeIIU.png",
         "uri": "ZMrLWF+ZE5glckHGdHAaWh9w+pnJzD9CHu+FWPgUbMY=",
         "temporada": [
           {
             "name": "Capitulo 1",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8bdrY/L6DlNuJGoC7UDQm4x8YLK9mfsYlbV5xp510ycsI+OBrWZB06IrupYHWDumE="
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpAb8RnZKXHjguAChUI2jpS9"
           },
           {
             "name": "Capitulo 2",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ+EAlHM/NG4Wl/qXY5l9BLrCNjNfXZxDsOxiy1uT2spl25B52kwhkg1BzThCw64c0s="
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpDZkn1tPFMFniK7dcOZqaIY"
           },
           {
             "name": "Capitulo 3",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8fwCGkjsqeeW18q29t3y/uXYN9kc0/GrG+2Nz/3zgziIikKWfVXS2xZXIP4D8fNiU="
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpBUzNAIC7f3ZKZO1p6xJwRO"
           },
           {
             "name": "Capitulo 4",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ/aNr2Q4bIhlaWTj0ViHPpiqODLPfyrQoQRGxM0lW+v+Jk6/CwRg3+BMvvinIBfSD4="
-          },
-          {
-            "name": "Capitulo 5",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ80rGD97cWZE7GP2Kg5RSeO7YXX1lvAAPV59plAlUPgQmBTx2EZKxm798QOXaAygyU="
-          },
-          {
-            "name": "Capitulo 6",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ99i3yt9Vc3aw1VRwlA0SfIFhh4qIUE0WUQAfMGRkeR7lGEasOYMn/rwGexeOSKEZY="
-          },
-          {
-            "name": "Capitulo 7",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8MgTX3m13CC55ucFll9UE9TuMM5GbBRwcb1vuyd+3KyJ5XDOB2zzlB+d2X2RaSJ+U="
-          },
-          {
-            "name": "Capitulo 8",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8TP5PBxTf6KCEBtEwazZI74Bb9kdEjlvnm690LVQgNFZDgaTgzR7WfaXv2dKBGmmI="
-          },
-          {
-            "name": "Capitulo 9",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8spDbh3vvofrgOegnVdQO6fr5lIKrtSGCFfb92havaGcgSIQOPO0MgPrXkiMffjhs="
-          },
-          {
-            "name": "Capitulo 10",
-            "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8tvSGlLDpqi2S6Rd+nzzBYXqgKY1nRYpAAGVvKBmYeNmnCXCD5l2mIoT8cGUQDtrM="
+            "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVhpGRhxhAvQpzuxOQOjzHpDGYqBhJJNlJbXjtNBu/VRx"
           }
         ]
       },
