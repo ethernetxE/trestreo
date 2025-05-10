@@ -4834,6 +4834,11 @@
     "mode": false,
     "lista": [
       {
+        "name": "Galicia",
+        "icon": "https://iteleflix.com/archivos/Logo-TVG-Galicia-1.png",
+        "uri": "ULtNRvBWj0fFqTXl5aTf0n/5EnPFL4ErA8uakfmK86O5otSiROrnMkJH2nsPNf28JFP29O8vHySFfZnoj25tLg=="
+      },
+      {
         "name": "24H",
         "uri": "A16UUcua6wq+s3pl3dhlHriqPjTKnU24PDRyUY0JKrxJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmRMeQrEo5RvxFmRrOn2VSV0fyghw2/ZnN9coxtYJJue+rOTsWp4XK/Z48OZ2e9vrl4=",
         "icon": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png"
