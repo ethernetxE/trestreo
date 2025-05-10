@@ -988,6 +988,61 @@
     "mode": true,
     "lista": [
       {
+        "name": "Nonnas",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/e/ed/Nonnas_-_Poster.jpg/revision/latest?cb=20250509155742&path-prefix=es",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLCHpoWrDYIxLL3e7OegE0TI"
+      },
+      {
+        "name": "Mala Influencia",
+        "icon": "https://i.imgur.com/Z0whs8Z.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLAOYk4el1UaPKYsBInSFCHbIXNKun38b8ET76hQgyUz+Q=="
+      },
+      {
+        "name": "La Raiz del miedo",
+        "icon": "https://play-lh.googleusercontent.com/cfgM0KkiULWXSmC7J058NYQrh5m-juThIF9qf61z-zDHLsVdEnKteZLoYPukbOCwpNdz=w240-h480-rw",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLAOqA9JEohl2BwsI4987NqHzAIQn9AIKLWvwF6tftRTqw=="
+      },
+      {
+        "name": "La partida de GO",
+        "icon": "https://i.imgur.com/Lot8qbS.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLCbE0khokFBVDE1Jt4dJgWzyPXpgkb/667XkMWFp3xBzQ=="
+      },
+      {
+        "name": "La Chica Salvaje",
+        "icon": "https://i.imgur.com/3DgEbjJ.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLBatfs33lD3rWVsPyAola3djnaZ5AnKQXXP6c/Vdmcw0w=="
+      },
+      {
+        "name": "Karol G",
+        "icon": "https://i.imgur.com/sjbFF7c.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLBu3METMpLBjNCwl3AX2V0B"
+      },
+      {
+        "name": "Inexplicable",
+        "icon": "https://i.imgur.com/7aOdmfY.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLBHtQhc3/NgE/xQ6GYUjT42l+pfbX87J+kkVIwhbaz65g=="
+      },
+      {
+        "name": "El Nucleo",
+        "icon": "https://play-lh.googleusercontent.com/ZMDJBul_o20-wudzgdRFI6ih8sqfpHpHzvW6OQP6XVLpeh0FcxMqrGkigZVzTncntIceJA=w240-h480-rw",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLCmGjgPr4807hOu6y2x2j7ONvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "name": "Bala Perdida 3",
+        "icon": "https://i.imgur.com/yIpgfvi.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLCo5nth9SPAEtbv0bDv7Gqh6KCrjeo/Ir9aF11itFJ4Gg=="
+      },
+      {
+        "name": "La hija del General",
+        "icon": "https://play-lh.googleusercontent.com/jWj6odSIad-RDjUyJnsyE7B-AdKaqQ-FgZCwZoG7gFjEmrcuVRy3ntG5tsmhrTLX8ZU8",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLC9pe05IUN7rA/uxz08SGcE+uieUZi9pZVQiM8RhqWRwA=="
+      },
+      {
+        "name": "1408",
+        "icon": "https://play-lh.googleusercontent.com/yeczXP8R4PFYTyOYPuQnyNeFKJ8Vk7Q21ghZab0MH3einzpHdb5QETjIbfYziIwNvtT0OM9qPYFnLjs-cPE",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVthP8l3rAnV9s9l7qmi7kLAdRhAAwv68mRcpPRcU/emp"
+      },
+      {
         "name": "Pánico en el tren bala",
         "icon": "https://i.imgur.com/DiqRZyE.png",
         "uri": "/c1xmmiZXWmmX5Pm5NThNvzVWtctvjS8jhAqaAUq+ALgU+C2fpL95QvED7QNKQOV7yfc1TIbyt24JgfP2MJYyzZaZQXFmjO9qbQwKnQNjNc="
