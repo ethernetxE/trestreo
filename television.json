@@ -241,7 +241,8 @@
       {
         "name": "Canal 12 Trenque Lauquen",
         "icon": "https://i.imgur.com/AiNKFLl.png",
-        "uri": "M41fN4lLldXPACqaeewwG4p4DLD4VuLDbr4e2b/j8pJgdZ/0cyVg/Dp0gAkL2Y2Y+ZlCMSUDDYvnlgTspzDL7PjhEw7SVkV0yYqp0wH4iIM=",
+        "uri": "M41fN4lLldXPACqaeewwG4p4DLD4VuLDbr4e2b/j8pJ0RK9H1aSEYpwbkhe4auIb+ZlCMSUDDYvnlgTspzDL7PjhEw7SVkV0yYqp0wH4iIM=",
+        "drm_scheme": "clearkey",
         "drm_header": "4UyjXaS/eRrrvBWwy5/P9StrV9guC7vTjAx/La9TqXHjZ3PtRuMojDVvuXZt0JpNdM38p+MDsRfmK6nDSE8iHA=="
       },
       {
