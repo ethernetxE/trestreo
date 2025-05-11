@@ -824,6 +824,21 @@
     "mode": true,
     "lista": [
       {
+        "name": "Fight or flight",
+        "icon": "https://i.imgur.com/ExNlWSo.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVmZHg3mVys37Ra0hCONxyIMt2y3m5E/ed2MhslxUxtZl6KCrjeo/Ir9aF11itFJ4Gg=="
+      },
+      {
+        "name": "Otro pequeño favor",
+        "icon": "https://i.imgur.com/HZCWtFl.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVmZHg3mVys37Ra0hCONxyIPoS5/PgBMmc7yupN2ystPyBBV//OM2E83e6w/CKBSYxA=="
+      },
+      {
+        "name": "Conclave",
+        "icon": "https://i.imgur.com/qbX89gs.jpeg",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVmZHg3mVys37Ra0hCONxyIOAOE6vE7TM0g3MGJ3NfvMm"
+      },
+      {
         "name": "G20",
         "icon": "https://i.imgur.com/OismlL4.png",
         "uri": "VuWnAX+PhnfU2Y7P8JNVpnvPFwKQjE6JwS9DpEpRNZ8oiJaibDidmaJuGCRCQGdLrk/TKL93gyogdeyJhSPONuSjkB1FsclGRU/PPlb3Hn0="
@@ -2193,6 +2208,16 @@
     "name": "Contenido",
     "mode": true,
     "lista": [
+      {
+        "name": "Papi",
+        "icon": "https://i.imgur.com/OyMX2NY.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVmZHg3mVys37Ra0hCONxyIMZGfjGA5KtEfcITVwgfe79"
+      },
+      {
+        "name": "Cuckoo",
+        "icon": "https://i.imgur.com/lav94ft.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WmvriO2CAw+F306on47BMVmZHg3mVys37Ra0hCONxyIPCkTniCNPSOS7uoLd+lfWf"
+      },
       {
         "name": "Sangre y amor en París",
         "icon": "https://xl.movieposterdb.com/10_07/2009/1179034/xl_1179034_a0a9dab0.jpg",
