@@ -221,6 +221,27 @@
     "mode": false,
     "lista": [
       {
+        "name": "Formula 1 -",
+        "icon": "https://i.imgur.com/snl9Cns.png",
+        "uri": "j5PZRst1alrOh+kfoxHN/Ja6rohVECcIwX/yMT/SuxjRThTr5nBvVK23z+fe8hK9xCtEoQEZf4UbwA2+algaoN3qLbBOvj/SumQegm/MpYe4RzxEAkqos/TvjmsUVvKZ4sq2J9wE6wvO4RiMHsvrmrZAJrz38rCLrDFYAkTTd2s=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "J3YeBK3UYtjl8K6H+QJ0qbjJ1SucFvbmVoUqtxj/ZQwz+QCgq2GWJ34C5llPixnS"
+      },
+      {
+        "name": "Formula 1",
+        "icon": "https://i.imgur.com/snl9Cns.png",
+        "uri": "XxSzyESMhgmAcHXcHhAeUUfVIH94YvF/Muv1+W6e47DAsZTcA496g9f97w7npyVBrMi9pLEKvN0tMCCj7mWLHghNveMm3nqtAumbPyfVKHk=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HvNO4Xb0t1inEfW7JBE6XGJtIdbi9QE5Ea6Zh5iLWLseJghjg4rFZ9YV04rcvJcl",
+        "drm_header": "Zr8NaCNQnU9JJi6O9TrbDQ+6ybrlPVmFogPsrIPomcoX+0uGTXfuRDii/BOKEyA7gdXPBmzIR3LCTuc23YXcLNkQ4qhx6r7YvFT1vTDoB8TlU/OPF1AbN2XgLiUSlSjgz4v0N0vgNktf7DcpICWg3ZNgJfj3XXFd2aYtBvFuS0uFpsXFDMbUhPeSLqhUkntcOa2B7PtIVMDDgnn9R0zbTfNbOzmFlXu7UqxNA98ZBegRkYIl/WQdMJeAAMFLlXSfNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "name": "Formula 1--",
+        "icon": "https://i.imgur.com/snl9Cns.png",
+        "uri": "AzPa7nAtZOtY5qsAVxGZWWrPbNIsGNTulC+XPcdr7RJB2BEcZpEMy+Vsq+UImo2Y",
+        "drm_header": "4UyjXaS/eRrrvBWwy5/P9StrV9guC7vTjAx/La9TqXHjZ3PtRuMojDVvuXZt0JpNdM38p+MDsRfmK6nDSE8iHA=="
+      },
+      {
         "name": "Azteca 7 MX",
         "icon": "https://www.izzigo.tv/images/repository/878/7809878-LOGO-m.png",
         "uri": "XxSzyESMhgmAcHXcHhAeUUfVIH94YvF/Muv1+W6e47AJrYiRwEPRdw8kntwiNAYiiYh8gd/MdPOFpVtm5+5ECJC8DoobtVxXr84ryxZoK8w=",
