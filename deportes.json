@@ -221,7 +221,7 @@
     "mode": false,
     "lista": [
       {
-        "name": "Formula 1 -",
+        "name": "Formula 1 OPCIONES",
         "icon": "https://i.imgur.com/snl9Cns.png",
         "uri": "j5PZRst1alrOh+kfoxHN/Ja6rohVECcIwX/yMT/SuxjRThTr5nBvVK23z+fe8hK9xCtEoQEZf4UbwA2+algaoN3qLbBOvj/SumQegm/MpYe4RzxEAkqos/TvjmsUVvKZ4sq2J9wE6wvO4RiMHsvrmrZAJrz38rCLrDFYAkTTd2s=",
         "drm_scheme": "clearkey",
@@ -231,15 +231,19 @@
         "name": "Formula 1 -2",
         "icon": "https://i.imgur.com/snl9Cns.png",
         "uri": "ReOXNg0ZlRzk6XPi1ZV9qS5XLGz86VnT13tZwMxogxrouLQIjWdP1TrybFBkCei204N6jFR4yN7KaRdXZxbRbg==",
-        "drm_header": "RqvYJBcv/VbWgBd+M2jkvw=="
+        "drm_header": "HS1iP8g6W8ndG/TsMcsJLV5iOCYEedWDn/FDs/X5UuBsG2bFzLbmpZsyPnCMEEry+IXYunmrFuUD/8DgpqajzsK1LnTz+jnB0W6T2OGfZNK7g7GN6mElHmfvrnLDVqK6AFNcvL+bctQCMRmLmudcSMRO36MWKuMhW9aC94m+J1jritsSt5FAktPCSLPUJPRnc22YwAMooalIJdbMskeOE4rTetq2/o2YxUW9g8dnAjND1cMRcPSeqLbSE/DYycN4CKunt/Zjl+RDn+W1RGrbDlv4OSnIzxH7edO/12+tsSsCTXBAEZocFcSw9csKtNskRytbv2OHAIEHwpuns5IIT0N9aPvxOk/RSLjvMvSKWEmPxuDpf7lV7kXa8CtXWr/gwnmtf62v62JjUhxET3ZLog=="
       },
       {
-        "name": "Formula 1",
+        "name": "Formula 1 -3",
         "icon": "https://i.imgur.com/snl9Cns.png",
-        "uri": "XxSzyESMhgmAcHXcHhAeUUfVIH94YvF/Muv1+W6e47DAsZTcA496g9f97w7npyVBrMi9pLEKvN0tMCCj7mWLHghNveMm3nqtAumbPyfVKHk=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HvNO4Xb0t1inEfW7JBE6XGJtIdbi9QE5Ea6Zh5iLWLseJghjg4rFZ9YV04rcvJcl",
-        "drm_header": "Zr8NaCNQnU9JJi6O9TrbDQ+6ybrlPVmFogPsrIPomcoX+0uGTXfuRDii/BOKEyA7gdXPBmzIR3LCTuc23YXcLNkQ4qhx6r7YvFT1vTDoB8TlU/OPF1AbN2XgLiUSlSjgz4v0N0vgNktf7DcpICWg3ZNgJfj3XXFd2aYtBvFuS0uFpsXFDMbUhPeSLqhUkntcOa2B7PtIVMDDgnn9R0zbTfNbOzmFlXu7UqxNA98ZBegRkYIl/WQdMJeAAMFLlXSfNvwu0STFGFDreKwlJJfuJA=="
+        "uri": "gJ3WbsVe2ZNmDXFpT6JeXxJU8hIveGfCNkbOUhrWd0x5aw6z7PiG1ybDX8t0MMaR",
+        "drm_header": "tmeSnt3uMA+9KztVzKvnW4PyxboXF24SSv5SZtOXZMHeT5qJD8O2rt/LHyWNKTXb7P+Wk3+sk4uUbx4Mo5BmP0jgUpFVt00o2eiasgPvssrOVVfwF1ec9Au7Xwr4yK44yHWVyxrLAQP9K3bZpwSII++5k+xQ4RkRvvApeJN1lxIbhCWxG0eEPfcz/weBeHsYGXKTWNPCvuVUNg90MSIXDqNhLbstBLLXpR1UKTgxOP33VjaeRzrweOtASUs0uLpZ8pojDfmTP9wO8i9RhV5ELCChXTLX5+x1cTxmZ/dqECjtil/fPn4uxaIwEZRtpSqt53FSMGGi2dw0pQvglEnmEZ3ZNAAzHObmVNvPjNy/4T6FBlMFU1Yi3L6+cq7/kAPwlUXDL1+BdL8M7dfcHPUVjaQtlzGh0bnISSUiep7d0YVzeKXV8opgzwNeiwdkWcKR4XmMKyM1rfnc3d9ByrXzGCmn6zhT65o9/265NIXOjnKFqUYJXJyUZoEdvaBvDAVb"
+      },
+      {
+        "name": "Formula 1 -4",
+        "icon": "https://i.imgur.com/snl9Cns.png",
+        "uri": "gJ3WbsVe2ZNmDXFpT6JeXxJU8hIveGfCNkbOUhrWd0xleh9kBktgNAy0dI2UlUxn",
+        "drm_header": "tmeSnt3uMA+9KztVzKvnW4PyxboXF24SSv5SZtOXZMHeT5qJD8O2rt/LHyWNKTXb7P+Wk3+sk4uUbx4Mo5BmP0jgUpFVt00o2eiasgPvssrOVVfwF1ec9Au7Xwr4yK44yHWVyxrLAQP9K3bZpwSII++5k+xQ4RkRvvApeJN1lxIbhCWxG0eEPfcz/weBeHsYGXKTWNPCvuVUNg90MSIXDqNhLbstBLLXpR1UKTgxOP33VjaeRzrweOtASUs0uLpZ8pojDfmTP9wO8i9RhV5ELCChXTLX5+x1cTxmZ/dqECjtil/fPn4uxaIwEZRtpSqt53FSMGGi2dw0pQvglEnmEZ3ZNAAzHObmVNvPjNy/4T6FBlMFU1Yi3L6+cq7/kAPwlUXDL1+BdL8M7dfcHPUVjaQtlzGh0bnISSUiep7d0YVzeKXV8opgzwNeiwdkWcKR4XmMKyM1rfnc3d9ByrXzGCmn6zhT65o9/265NIXOjnKFqUYJXJyUZoEdvaBvDAVb"
       },
       {
         "name": "Formula 1--",
