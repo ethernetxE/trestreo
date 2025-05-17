@@ -356,16 +356,16 @@
         "drm_license_url": "975e19toDInX0nT3Ri6MpziYgc1ijt+86p8jfGTHYA6ZHusad/VBQO8MoxAVChqN"
       },
       {
-        "name": "VTV+ Uruguay 1",
-        "icon": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png",
-        "uri": "M41fN4lLldXPACqaeewwG4p4DLD4VuLDbr4e2b/j8pKS/fkkE9OQzeekVuz7DyCPAJRIFXy9xiq8qv23KaFmYbeEoI6OCxDg0qkQfm5ove8=",
-        "drm_header": "4UyjXaS/eRrrvBWwy5/P9StrV9guC7vTjAx/La9TqXHjZ3PtRuMojDVvuXZt0JpNdM38p+MDsRfmK6nDSE8iHA=="
-      },
-      {
         "name": "VTV+ Uruguay ",
         "icon": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png",
         "uri": "M41fN4lLldXPACqaeewwG4p4DLD4VuLDbr4e2b/j8pKS/fkkE9OQzeekVuz7DyCPhqSSzeAuYAFdjYxF4szdhdODeoxUeMjeymkXV2cW0W4=",
         "drm_header": "4UyjXaS/eRrrvBWwy5/P9StrV9guC7vTjAx/La9TqXHjZ3PtRuMojDVvuXZt0JpNdM38p+MDsRfmK6nDSE8iHA=="
+      },
+      {
+        "name": "VTV+ Uruguay 1",
+        "icon": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png",
+        "uri": "gJ3WbsVe2ZNmDXFpT6JeXxJU8hIveGfCNkbOUhrWd0wfgCbAnmMH9YDSzNQW3cd8",
+        "drm_header": "tmeSnt3uMA+9KztVzKvnW4PyxboXF24SSv5SZtOXZMHeT5qJD8O2rt/LHyWNKTXb7P+Wk3+sk4uUbx4Mo5BmP0jgUpFVt00o2eiasgPvssrOVVfwF1ec9Au7Xwr4yK44yHWVyxrLAQP9K3bZpwSII++5k+xQ4RkRvvApeJN1lxIbhCWxG0eEPfcz/weBeHsYGXKTWNPCvuVUNg90MSIXDqNhLbstBLLXpR1UKTgxOP33VjaeRzrweOtASUs0uLpZ8pojDfmTP9wO8i9RhV5ELCChXTLX5+x1cTxmZ/dqECjtil/fPn4uxaIwEZRtpSqt53FSMGGi2dw0pQvglEnmEZ3ZNAAzHObmVNvPjNy/4T6FBlMFU1Yi3L6+cq7/kAPwlUXDL1+BdL8M7dfcHPUVjaQtlzGh0bnISSUiep7d0YVzeKXV8opgzwNeiwdkWcKR4XmMKyM1rfnc3d9ByrXzGCmn6zhT65o9/265NIXOjnKFqUYJXJyUZoEdvaBvDAVb"
       },
       {
         "name": "VTV+ Uruguay 2",
@@ -380,10 +380,10 @@
         "drm_header": "Zr8NaCNQnU9JJi6O9TrbDfHzeUgIlYBHhM9iw9VvfuRK9jbf1O73/pFEwtBlTquwxmotFw2uGDeXq6z5i3SE+q9+e8o3aMF0XsKkBBuVlw3ZEnaTYhe/MGZE8e41vlicapGvYp9ufqfKdiOEXoEs6V48eApLbilsINlf8MKgfg4brXSYJi2lpUsqaEE+tgtjMzJ+IyO06zazrl8LwDUW15BwkftKg/2QMIL9UA+L+LYdcjdUEZc+O2VIPvcuCDGo01i0CR6ijQ4nZhAphiOLsIlWN8Bc8NVo74vjEIawl9/SKhdAwtSdiIN8WVL1Lz1u"
       },
       {
-        "icon": "https://i.imgur.com/mTTr2PV.png",
         "name": "Gol TV HD",
-        "uri": "M41fN4lLldXPACqaeewwG4p4DLD4VuLDbr4e2b/j8pKcRWJpzDy4l05pXxFQEoiUrmQQqxdkKvBQ3MBZv787pzb8LtEkxRhQ63isJSSX7iQ=",
-        "drm_header": "CuP71XEMIjZvbqr2Lrb63P9mgazKyB4XEZCM6bYGtUoQYY3w2xCL/ktd4Ua24eycltk2HYjsZ2WGOQL6ESkFhjpomCLH2i58aNHoLosiC7MXVoyPdVH2AwHt0rqN0+gaHlF30I6LJX3fGCWNhq2hIdFsSdZF4a703UmrSOeKx7E="
+        "icon": "https://i.imgur.com/mTTr2PV.png",
+        "uri": "gJ3WbsVe2ZNmDXFpT6JeXxJU8hIveGfCNkbOUhrWd0yiANZsRUiEEyTJTHjDtDhB",
+        "drm_header": "tmeSnt3uMA+9KztVzKvnW4PyxboXF24SSv5SZtOXZMHeT5qJD8O2rt/LHyWNKTXb7P+Wk3+sk4uUbx4Mo5BmP0jgUpFVt00o2eiasgPvssrOVVfwF1ec9Au7Xwr4yK44yHWVyxrLAQP9K3bZpwSII++5k+xQ4RkRvvApeJN1lxIbhCWxG0eEPfcz/weBeHsYGXKTWNPCvuVUNg90MSIXDqNhLbstBLLXpR1UKTgxOP33VjaeRzrweOtASUs0uLpZ8pojDfmTP9wO8i9RhV5ELCChXTLX5+x1cTxmZ/dqECjtil/fPn4uxaIwEZRtpSqt53FSMGGi2dw0pQvglEnmEZ3ZNAAzHObmVNvPjNy/4T6FBlMFU1Yi3L6+cq7/kAPwlUXDL1+BdL8M7dfcHPUVjaQtlzGh0bnISSUiep7d0YVzeKXV8opgzwNeiwdkWcKR4XmMKyM1rfnc3d9ByrXzGCmn6zhT65o9/265NIXOjnKFqUYJXJyUZoEdvaBvDAVb"
       }
     ]
   },
